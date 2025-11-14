@@ -1,49 +1,70 @@
 # Daniel Felipe Sacristán Ávila – Analytics Portfolio
 
-A collection of real-world analytics projects built from my work in aviation operations, medical recovery, and daily life optimization.
+This repository contains a collection of real-world analytics projects built from my experience in **military aviation operations, rehabilitation, and daily life optimization**.
 
-I’m a Colombian Air Force Captain and UH-60 / UH-1 pilot transitioning into Data & BI, using tools like **Excel, Power BI, Power Apps, Python, and SQL** to turn raw operations into actionable insights.
-
-## 🔗 Profiles
-
-- LinkedIn: [daniel-felipe-sacristán-ávila](https://www.linkedin.com/in/daniel-felipe-sacristán-ávila-b82aa61ab)
-- Email: [sacristandanielfelipe@gmail.com](mailto:sacristandanielfelipe@gmail.com)
+I combine **Flight Ops discipline** with **Data Analytics** using Excel, Power BI, Python and SQL to create dashboards and models that support decision-making.
 
 ---
 
-## 📁 Projects
+## 👨‍✈️ About Me
 
-### 1️⃣ Transportation Cost Optimization Dashboard
-**Folder:** `projects/01-transportation-cost-optimization/`  
-Analyzes Uber/Taxi trips, cost per km/min, time-of-day effects, outliers (IQR), and savings using virtual vs real pricing.
+I’m a Colombian Air Force Captain and UH-60 / UH-1 pilot transitioning into **Data & Business Intelligence**.  
+During my CVA rehabilitation, I started building dashboards to track flight hours, therapy, transportation costs, and later operational metrics.
 
-### 2️⃣ Medical Appointments & Therapy Analytics
-**Folder:** `projects/02-medical-therapy-analytics/`  
-Tracks sessions, cancellations, facility changes, travel cost and therapy progress in my rehabilitation process.
+Now I design analytical systems that are:
+- operationally realistic
+- statistically grounded
+- visually clear
 
-### 3️⃣ Flight Hours & Quota Readiness Dashboard
-**Folder:** `projects/03-flight-hours-quota-dashboard/`  
-Excel/Power BI dashboard for aircraft quotas, hours flown, remaining hours, volatility (CV), and readiness status.
+You can see the projects below.
 
-### 4️⃣ Pilot Training & Qualification Tracking
-**Folder:** `projects/04-pilot-training-tracking/`  
-System using Excel + Power Apps + Power BI to follow recurrent training, qualification status, and readiness KPIs.
+---
 
-### 5️⃣ Personal Learning Analytics
-**Folder:** `projects/05-learning-analytics/`  
-Tracks my study time, routines, and consistency across Python, data, BI, and English using Notion + Excel.
+## 📂 Projects
+
+### 1️⃣ Flight Hours Forecasting & Readiness System (Excel)
+**Folder:** `projects/01-flight-hours-forecasting-excel/`  
+Forecasting engine for multi-aircraft quotas using **Coefficient of Variation**, adaptive lookback windows, and visual readiness indicators.
+
+---
+
+### 2️⃣ Operational Intelligence Dashboard (Power BI)
+**Folder:** `projects/02-operational-intel-dashboard-powerbi/`  
+Power BI dashboard for **operational results**, geospatial mission mapping, KPI tracking and functional breakdown of missions.
+
+---
+
+### 3️⃣ Transportation Cost Optimization
+**Folder:** `projects/03-transportation-cost-optimization/`  
+Analyzes ride cost vs time of day, distance, duration and virtual vs real price, including **IQR outliers and hypothesis testing**.
+
+---
+
+### 4️⃣ Medical Appointments & Therapy Tracker
+**Folder:** `projects/04-medical-therapy-tracker/`  
+Excel system to monitor therapy sessions, appointments, cancellations, facility load and progress during rehabilitation.
+
+---
+
+### 5️⃣ Gym & Sleep Analytics
+**Folder:** `projects/05-gym-sleep-analytics/`  
+Python + Excel pipeline to analyze the relationship between **training, sleep and recovery**, with automated ETL.
 
 ---
 
 ## 🛠 Tech & Tools
 
-- **Analytics:** Excel, Power BI, Power Apps, Power Query
-- **Programming:** Python (pandas), SQL (learning)
-- **Other:** Notion, GitHub, basic statistics (CV, IQR, hypothesis testing)
+- Excel (advanced dashboards, forecasting, modeling)
+- Power BI (DAX, data modeling, KPIs, maps)
+- Python (pandas, ETL)
+- SQL (basics)
+- Notion (knowledge and portfolio)
+- Power Apps (low-code operational tools)
 
-Each project folder contains a detailed `README.md` with:
-- context & problem
-- approach
-- visual examples
-- key insights
-- files & how to explore them
+---
+
+## 🔗 Links
+
+- LinkedIn: [daniel-felipe-sacristán-ávila](https://www.linkedin.com/in/daniel-felipe-sacristán-ávila-b82aa61ab)
+- Portfolio (Notion): *(add your portfolio URL here)*
+- Email: [sacristandanielfelipe@gmail.com](mailto:sacristandanielfelipe@gmail.com)
